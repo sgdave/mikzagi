@@ -1,0 +1,4 @@
+account_id,account_type,account_holder,account_owner,currency,balance,date,notes
+bos_kz_personal,chequing,bos,kz,GBP,700,25/01/26,
+bos_kz_joint_ch,chequing,bos,"kz, sur",GBP,250,25/01/26,
+bos_kz_joint_sv,saving,bos,"kz, sur",GBP,1000,25/01/26,
