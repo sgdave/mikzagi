@@ -1,4 +1,4 @@
-# Review R1
+# [TEMPLATE] Review R2
 
 ## Purpose
 First ever review held as a kick-off meeting.
